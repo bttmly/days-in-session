@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nickb1080/days-in-session.svg?branch=master)](https://travis-ci.org/nickb1080/days-in-session)
+
 # Days In Session
 
 Couldn't find a decent data source for getting the days in session for the US Congress. This module scrapes [congress.gov](https://beta.congress.gov/congressional-record/browse-by-date/) and parses the HTML. No guarantees on accuracy!
