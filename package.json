@@ -1,0 +1,21 @@
+{
+  "name": "days-in-session",
+  "version": "0.1.0",
+  "description": "Get the days in session by congress",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "Nick Bottomley (http://github.com/nickb1080)",
+  "respoitory": "https://github.com/nickb1080/days-in-session.git",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "es6-promise": "^1.0.0",
+    "request": "^2.40.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
